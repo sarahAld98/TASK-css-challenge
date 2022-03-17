@@ -1,0 +1,30 @@
+body {
+    background-color: #1b0c2c;
+  }
+
+  .container{
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  .image
+  {
+      width:500px;
+      height:600px;
+      border-radius: 5%;
+  }
+
+  .title {
+    font-size: 70px;
+    color: aliceblue;
+    font-family: 'Satisfy', cursive;
+  }
+
+  .description {
+    font-size: 25px;
+    color: aliceblue;
+    font-family:Arial, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+  }
